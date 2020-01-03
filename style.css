@@ -14,7 +14,7 @@ body {
   border: 10px solid #f8e7dc;
   animation: rock;
   animation-iteration-count: infinite;
-  animation-duration: 1s;
+  animation-duration: 5s;
 }
 
 @keyframes rock {
@@ -48,7 +48,7 @@ body {
   left: 50px;
   animation: rock;
   animation-iteration-count: infinite;
-  animation-duration: 1s;
+  animation-duration: 5s;
 }
 
 .message {

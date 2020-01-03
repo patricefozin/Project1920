@@ -50,11 +50,12 @@
 </div>
 
 <div class="message">
-  <h1>Wish You</h1>
-  <h2>Merry Christmas</h2>
+  <h1>May the Gods of Devops</h1>
+  <h2>be with you and your brain</h2>
   <h1>And</h1>
-  <h2>A</h2>
-  <h1>Happy New Year</h1>
+  <h2>the Holy God</h2>
+  <h1>allow us knowledge, understanding and</h1> 
+  <h1>wisdom in this New Year</h1>
 </div>
 
 </div>
